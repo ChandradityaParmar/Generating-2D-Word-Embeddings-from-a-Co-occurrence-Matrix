@@ -1,12 +1,12 @@
-Word Embeddings from Co-occurrence Matrix using PCA
+# Word Embeddings from Co-occurrence Matrix using PCA
 A Python script that demonstrates a fundamental Natural Language Processing (NLP) technique for generating and visualizing 2D word embeddings from a text corpus.
 
-🌟 About The Project
+# 🌟 About The Project
 This project provides a step-by-step implementation of a classic count-based method for creating word embeddings. It reads a small text corpus, builds a word co-occurrence matrix, and then uses Principal Component Analysis (PCA) to reduce the dimensionality of the matrix to 2D. The final 2D word vectors are then plotted to visually represent their semantic relationships.
 
 This script is intended as an educational tool to understand the core concepts behind word vectorization and distributional semantics.
 
-✨ Key Features:
+## ✨ Key Features:
 Text Preprocessing: Cleans and tokenizes raw text.
 
 Co-occurrence Matrix: Builds a matrix based on word proximity.
@@ -33,7 +33,7 @@ Ensure you have Python 3 and pip installed.
 Installation
 Clone the repo
 
-git clone https://github.com/your-username/Word-Embeddings-PCA.git
+git clone [https://github.com/your-username/Word-Embeddings-PCA.git](https://github.com/your-username/Word-Embeddings-PCA.git)
 
 Navigate to the project directory
 
