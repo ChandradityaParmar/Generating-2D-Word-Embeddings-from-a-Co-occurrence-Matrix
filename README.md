@@ -46,6 +46,6 @@ Ensure you have Python 3 and pip installed.
 ## 📖 Usage
 To run the script and generate the plot, execute the main Python file from your terminal:
 
-    python main.py
+         python main.py
 
 This will process the built-in corpus, perform the calculations, and display a Matplotlib window with the 2D plot of the word embeddings.
