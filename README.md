@@ -33,15 +33,15 @@ Ensure you have Python 3 and pip installed.
 ### Installation
 1. Clone the repo
 
-        ``` git clone [https://github.com/your-username/Word-Embeddings-PCA.git](https://github.com/your-username/Word-Embeddings-PCA.git) ```
+         git clone [https://github.com/your-username/Word-Embeddings-PCA.git](https://github.com/your-username/Word-Embeddings-PCA.git) 
 
 2. Navigate to the project directory
 
-        ``` cd Word-Embeddings-PCA ```
+         cd Word-Embeddings-PCA 
 
 3. Install the required packages
 
-        ``` pip install numpy matplotlib scikit-learn ```
+         pip install numpy matplotlib scikit-learn 
 
 ## 📖 Usage
 To run the script and generate the plot, execute the main Python file from your terminal:
