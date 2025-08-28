@@ -16,24 +16,24 @@ This script is intended as an educational tool to understand the core concepts b
 * Visualization: Plots the 2D word embeddings using Matplotlib.
 
 🛠️ Built With
-Python 3
+* Python 3
 
-NumPy
+* NumPy
 
-Matplotlib
+* Matplotlib
 
-Scikit-learn
+* Scikit-learn
 
-🚀 Getting Started
+## 🚀 Getting Started
 To get a local copy up and running, follow these simple steps.
 
-Prerequisites
+### Prerequisites
 Ensure you have Python 3 and pip installed.
 
-Installation
-Clone the repo
+### Installation
+1. Clone the repo
 
-git clone [https://github.com/your-username/Word-Embeddings-PCA.git](https://github.com/your-username/Word-Embeddings-PCA.git)
+``` git clone [https://github.com/your-username/Word-Embeddings-PCA.git](https://github.com/your-username/Word-Embeddings-PCA.git) ```
 
 Navigate to the project directory
 
