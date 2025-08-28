@@ -35,40 +35,17 @@ Ensure you have Python 3 and pip installed.
 
 ``` git clone [https://github.com/your-username/Word-Embeddings-PCA.git](https://github.com/your-username/Word-Embeddings-PCA.git) ```
 
-Navigate to the project directory
+2. Navigate to the project directory
 
-cd Word-Embeddings-PCA
+``` cd Word-Embeddings-PCA ```
 
-Install the required packages
+3. Install the required packages
 
-pip install numpy matplotlib scikit-learn
+``` pip install numpy matplotlib scikit-learn ```
 
-📖 Usage
+## 📖 Usage
 To run the script and generate the plot, execute the main Python file from your terminal:
 
-python main.py
+``` python main.py ```
 
 This will process the built-in corpus, perform the calculations, and display a Matplotlib window with the 2D plot of the word embeddings.
-
-🤝 Contributing
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-
-Fork the Project
-
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-
-Push to the Branch (git push origin feature/AmazingFeature)
-
-Open a Pull Request
-
-📜 License
-Distributed under the MIT License. See LICENSE.txt for more information.
-
-📧 Contact
-[Your Name] - @your_twitter - your.email@example.com
-
-Project Link: https://github.com/your-username/Word-Embeddings-PCA
